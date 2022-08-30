@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    url: xxx
+    username: xxx
+    password: xxx
+
+carbank:
+  system:
+    host: http://192.168.0.1:8080
+  sign:
+    host: http://192.168.0.1:8080
