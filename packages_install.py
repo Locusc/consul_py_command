@@ -3,7 +3,7 @@
 
 """
 @Time    : 2022/8/29 10:51
-@Author  : Jay
+@Author  : jay chan
 @FileName: packages_install.py.py
 
 安装consul相关包:
